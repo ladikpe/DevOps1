@@ -12,7 +12,7 @@
                                                                 </div>
                                                                 <div class=" col-sm-6">
                                                                     <div class=" well">
-                                                                    <h4 class=" align-center text-info">Please enter login details </h4><hr>
+                                                                    <h4 class=" align-center text-info">Please enter login details below </h4><hr>
                                                                     <form method="post" action="<?php echo base_url('newController/loginForm'); ?>">
                                                                         <div class="row uniform">
                                                                             <div class="12u 12u$(xsmall)">
